@@ -1,0 +1,192 @@
+employee_id,employee_name,department,training_course,completion_date,score,status
+EMP0001,Christopher Frederick,Strategy & Digital Department,AML & Compliance Basics,2024-12-27,65,Completed
+EMP0002,George Peters,Corporate Communications,Digital Transformation,2024-09-30,93,Completed
+EMP0003,Renee Gutierrez,Life & Medical,Reinsurance Principles,2025-03-13,52,In Progress
+EMP0004,Rachael Palmer,Engineering,Customer Experience Excellence,2024-12-06,82,Completed
+EMP0005,Linda Ward,Reinsurance,Leadership & Communication,2024-11-18,95,Completed
+EMP0006,David Lynn,Strategy & Digital Department,Leadership & Communication,2025-03-11,64,Completed
+EMP0006,David Lynn,Strategy & Digital Department,Data Analytics for Business,2025-06-06,67,Completed
+EMP0006,David Lynn,Strategy & Digital Department,Project Management Professional,2024-08-12,98,Completed
+EMP0007,Leslie Perez,Legal Department,Cybersecurity Awareness,2025-01-30,67,Completed
+EMP0007,Leslie Perez,Legal Department,Advanced Excel for Analysts,2024-11-27,98,Completed
+EMP0007,Leslie Perez,Legal Department,Claims Management Essentials,2024-09-30,55,In Progress
+EMP0008,Stacy Henderson,Director of Finance,Claims Management Essentials,2025-02-01,88,Completed
+EMP0009,Brenda Freeman,Investor Relations,Digital Transformation,2025-04-01,84,Completed
+EMP0010,Paula Hahn,Human Resources,Insurance Fraud Detection,2025-05-18,68,Completed
+EMP0010,Paula Hahn,Human Resources,Regulatory Compliance,2025-06-26,89,Completed
+EMP0011,Joseph Crawford,CFO Office,Customer Experience Excellence,2025-08-04,54,In Progress
+EMP0011,Joseph Crawford,CFO Office,AML & Compliance Basics,2025-07-13,64,Completed
+EMP0011,Joseph Crawford,CFO Office,Project Management Professional,2025-01-04,55,In Progress
+EMP0012,Chad Suarez,Corporate Communications,Cybersecurity Awareness,2024-12-29,79,Completed
+EMP0013,Isaac Gomez,Strategy & Digital Department,Advanced Excel for Analysts,2025-02-14,72,Completed
+EMP0013,Isaac Gomez,Strategy & Digital Department,Customer Experience Excellence,2025-07-18,67,Completed
+EMP0014,Mrs. Heather Walker,Risk Management,Insurance Fraud Detection,2025-06-16,90,Completed
+EMP0014,Mrs. Heather Walker,Risk Management,Advanced Excel for Analysts,2025-05-09,96,Completed
+EMP0014,Mrs. Heather Walker,Risk Management,Customer Experience Excellence,2024-10-31,79,Completed
+EMP0015,Suzanne Lewis,Director of Finance,Financial Modeling,2025-07-02,94,Completed
+EMP0015,Suzanne Lewis,Director of Finance,Leadership & Communication,2024-11-29,93,Completed
+EMP0016,Christina Moore,"Talent, Training & Development",Customer Experience Excellence,2024-08-25,70,Completed
+EMP0017,Rachael Rhodes,Director of Finance,Insurance Fraud Detection,2024-11-25,86,Completed
+EMP0017,Rachael Rhodes,Director of Finance,Financial Modeling,2025-01-17,63,Completed
+EMP0018,Nancy Odonnell,Strategy & Digital Department,Cybersecurity Awareness,2025-07-04,79,Completed
+EMP0018,Nancy Odonnell,Strategy & Digital Department,Advanced Excel for Analysts,2024-12-22,58,In Progress
+EMP0019,Toni French,Corporate Communications,Leadership & Communication,2025-05-11,66,Completed
+EMP0019,Toni French,Corporate Communications,Digital Transformation,2025-06-04,77,Completed
+EMP0019,Toni French,Corporate Communications,Financial Modeling,2025-06-03,75,Completed
+EMP0020,Danny Campbell,CFO Office,Advanced Excel for Analysts,2025-04-26,81,Completed
+EMP0021,Dustin Rice,Marketing,Regulatory Compliance,2024-10-04,59,In Progress
+EMP0022,Lisa Summers,Strategy & Digital Department,Project Management Professional,2025-07-23,77,Completed
+EMP0023,Joyce Howard,Reinsurance,Cybersecurity Awareness,2025-02-20,88,Completed
+EMP0024,April Munoz,Distribution,Underwriting Fundamentals,2025-05-19,50,In Progress
+EMP0024,April Munoz,Distribution,Risk Assessment Techniques,2024-10-06,93,Completed
+EMP0024,April Munoz,Distribution,Financial Modeling,2025-05-10,98,Completed
+EMP0025,Jim Lowe,Investor Relations,Claims Management Essentials,2024-10-05,68,Completed
+EMP0025,Jim Lowe,Investor Relations,Cybersecurity Awareness,2024-10-28,79,Completed
+EMP0025,Jim Lowe,Investor Relations,AML & Compliance Basics,2024-12-21,82,Completed
+EMP0026,Carlos Hawkins,Legal Department,Financial Modeling,2024-10-02,90,Completed
+EMP0026,Carlos Hawkins,Legal Department,Underwriting Fundamentals,2025-07-02,82,Completed
+EMP0026,Carlos Hawkins,Legal Department,Reinsurance Principles,2024-11-18,59,In Progress
+EMP0027,Debra Kemp,CFO Office,Leadership & Communication,2025-05-07,50,In Progress
+EMP0028,Jennifer Molina,Reinsurance,Data Analytics for Business,2024-08-18,57,In Progress
+EMP0028,Jennifer Molina,Reinsurance,Financial Modeling,2025-02-10,69,Completed
+EMP0029,Kimberly Harris,Corporate Communications,Customer Experience Excellence,2025-05-26,55,In Progress
+EMP0030,Mrs. Ariel Fisher,Marketing,Data Analytics for Business,2024-09-13,98,Completed
+EMP0030,Mrs. Ariel Fisher,Marketing,Leadership & Communication,2024-10-12,58,In Progress
+EMP0030,Mrs. Ariel Fisher,Marketing,Risk Assessment Techniques,2025-04-09,85,Completed
+EMP0031,Martha Henderson,Legal Department,Leadership & Communication,2025-06-15,77,Completed
+EMP0031,Martha Henderson,Legal Department,Customer Experience Excellence,2025-05-12,98,Completed
+EMP0032,Jessica Lambert,Information Technology,Underwriting Fundamentals,2025-03-01,92,Completed
+EMP0032,Jessica Lambert,Information Technology,Risk Assessment Techniques,2025-02-16,78,Completed
+EMP0032,Jessica Lambert,Information Technology,Financial Modeling,2025-04-30,78,Completed
+EMP0033,Tommy Johnson,Human Resources,Customer Experience Excellence,2024-09-10,71,Completed
+EMP0034,Julie Mason,Engineering,Leadership & Communication,2024-12-04,87,Completed
+EMP0034,Julie Mason,Engineering,Customer Experience Excellence,2024-08-12,54,In Progress
+EMP0034,Julie Mason,Engineering,Digital Transformation,2025-06-28,53,In Progress
+EMP0035,Brady Fields,Corporate Communications,Financial Modeling,2024-08-25,71,Completed
+EMP0036,Carly Rhodes,Marketing,Customer Experience Excellence,2024-12-29,92,Completed
+EMP0036,Carly Rhodes,Marketing,Data Analytics for Business,2024-11-26,84,Completed
+EMP0036,Carly Rhodes,Marketing,Advanced Excel for Analysts,2025-05-28,86,Completed
+EMP0037,Taylor Aguirre,Individual Department,Project Management Professional,2025-04-08,76,Completed
+EMP0038,Jeffrey Hancock,Information Technology,Insurance Fraud Detection,2025-07-12,77,Completed
+EMP0039,Michael Parsons,CFO Office,Cybersecurity Awareness,2025-04-05,96,Completed
+EMP0039,Michael Parsons,CFO Office,AML & Compliance Basics,2025-07-19,91,Completed
+EMP0040,Kaylee Parker,Strategy & Digital Department,AML & Compliance Basics,2025-03-03,96,Completed
+EMP0041,Scott Logan,"Talent, Training & Development",Customer Experience Excellence,2024-11-15,62,Completed
+EMP0042,Richard White,Life & Medical,Advanced Excel for Analysts,2025-03-13,61,Completed
+EMP0042,Richard White,Life & Medical,Underwriting Fundamentals,2025-04-02,65,Completed
+EMP0043,Willie Hunter,Marketing,Project Management Professional,2025-05-17,56,In Progress
+EMP0043,Willie Hunter,Marketing,AML & Compliance Basics,2025-07-08,84,Completed
+EMP0044,James Mullins,Engineering,Financial Modeling,2024-12-08,60,Completed
+EMP0045,Heidi Alexander DDS,Accounting,Data Analytics for Business,2024-11-26,75,Completed
+EMP0045,Heidi Alexander DDS,Accounting,Financial Modeling,2024-09-08,60,Completed
+EMP0046,Erin Butler,Director of Finance,Cybersecurity Awareness,2024-12-22,100,Completed
+EMP0047,Daniel Gibson,Distribution,Cybersecurity Awareness,2025-07-31,96,Completed
+EMP0047,Daniel Gibson,Distribution,Project Management Professional,2025-05-20,92,Completed
+EMP0048,Keith Johnson,Individual Department,Customer Experience Excellence,2025-01-07,63,Completed
+EMP0049,Kristin Mathews,Sales,Digital Transformation,2025-05-13,53,In Progress
+EMP0049,Kristin Mathews,Sales,Digital Transformation,2025-01-16,53,In Progress
+EMP0049,Kristin Mathews,Sales,AML & Compliance Basics,2025-06-04,80,Completed
+EMP0050,Jessica Combs,Commercial Underwriting,Advanced Excel for Analysts,2024-09-07,82,Completed
+EMP0050,Jessica Combs,Commercial Underwriting,Insurance Fraud Detection,2024-11-12,54,In Progress
+EMP0050,Jessica Combs,Commercial Underwriting,Reinsurance Principles,2024-09-12,93,Completed
+EMP0051,Steven Hall,Corporate Communications,Insurance Fraud Detection,2025-05-27,65,Completed
+EMP0051,Steven Hall,Corporate Communications,Reinsurance Principles,2025-06-09,52,In Progress
+EMP0052,Joel Kerr,Reinsurance,Cybersecurity Awareness,2025-07-11,87,Completed
+EMP0053,Brittany Haynes,Corporate Claims,Claims Management Essentials,2024-12-20,63,Completed
+EMP0053,Brittany Haynes,Corporate Claims,Risk Assessment Techniques,2025-01-16,65,Completed
+EMP0053,Brittany Haynes,Corporate Claims,Underwriting Fundamentals,2025-02-27,58,In Progress
+EMP0054,Shelby Wilson,Risk Management,Underwriting Fundamentals,2025-03-31,70,Completed
+EMP0054,Shelby Wilson,Risk Management,Financial Modeling,2024-09-15,50,In Progress
+EMP0054,Shelby Wilson,Risk Management,Data Analytics for Business,2025-06-23,86,Completed
+EMP0055,Brian Williams,Human Resources,Leadership & Communication,2024-11-26,82,Completed
+EMP0056,Travis Roberts,Investor Relations,Financial Modeling,2025-02-03,54,In Progress
+EMP0057,Bethany Cox,Corporate Communications,Underwriting Fundamentals,2024-10-28,78,Completed
+EMP0057,Bethany Cox,Corporate Communications,Regulatory Compliance,2025-05-14,95,Completed
+EMP0058,Jennifer Vaughn,Marketing & Public Relations,Project Management Professional,2025-07-09,83,Completed
+EMP0058,Jennifer Vaughn,Marketing & Public Relations,AML & Compliance Basics,2025-07-16,85,Completed
+EMP0058,Jennifer Vaughn,Marketing & Public Relations,Underwriting Fundamentals,2025-07-14,56,In Progress
+EMP0059,Crystal Brady,Finance,Insurance Fraud Detection,2024-10-02,97,Completed
+EMP0059,Crystal Brady,Finance,Leadership & Communication,2024-10-27,67,Completed
+EMP0060,Mary Perry,Marketing & Public Relations,Customer Experience Excellence,2025-01-31,63,Completed
+EMP0060,Mary Perry,Marketing & Public Relations,Risk Assessment Techniques,2025-06-29,66,Completed
+EMP0060,Mary Perry,Marketing & Public Relations,Leadership & Communication,2025-04-16,66,Completed
+EMP0061,Michael Roberts,Sales,Risk Assessment Techniques,2025-03-13,67,Completed
+EMP0062,Diamond Hogan,Sales,Claims Management Essentials,2024-10-14,90,Completed
+EMP0063,Kurt Nichols,Investor Relations,Digital Transformation,2025-03-23,85,Completed
+EMP0064,Paul Howard,Accounting,AML & Compliance Basics,2024-10-05,54,In Progress
+EMP0064,Paul Howard,Accounting,Financial Modeling,2025-07-28,59,In Progress
+EMP0064,Paul Howard,Accounting,Leadership & Communication,2024-08-27,73,Completed
+EMP0065,Patricia Johnson,Corporate Claims,Advanced Excel for Analysts,2025-03-17,58,In Progress
+EMP0065,Patricia Johnson,Corporate Claims,AML & Compliance Basics,2025-01-13,73,Completed
+EMP0065,Patricia Johnson,Corporate Claims,Financial Modeling,2024-08-29,72,Completed
+EMP0066,Rebecca Mathews,Information Technology,Customer Experience Excellence,2025-07-16,56,In Progress
+EMP0066,Rebecca Mathews,Information Technology,Claims Management Essentials,2025-05-22,76,Completed
+EMP0066,Rebecca Mathews,Information Technology,Reinsurance Principles,2024-10-27,65,Completed
+EMP0067,Lauren Whitaker,Legal Department,Financial Modeling,2025-03-08,51,In Progress
+EMP0068,Sydney Wood,Legal Department,Financial Modeling,2025-01-26,100,Completed
+EMP0068,Sydney Wood,Legal Department,Financial Modeling,2025-03-07,92,Completed
+EMP0068,Sydney Wood,Legal Department,Regulatory Compliance,2024-12-14,67,Completed
+EMP0069,Michelle Davis,Legal Department,Insurance Fraud Detection,2025-02-20,52,In Progress
+EMP0069,Michelle Davis,Legal Department,Regulatory Compliance,2025-04-06,64,Completed
+EMP0069,Michelle Davis,Legal Department,Customer Experience Excellence,2025-04-01,72,Completed
+EMP0070,Angel Branch,Marketing & Public Relations,Customer Experience Excellence,2024-08-21,92,Completed
+EMP0071,Michael Carrillo,Information Technology,Claims Management Essentials,2024-12-29,54,In Progress
+EMP0071,Michael Carrillo,Information Technology,Project Management Professional,2024-12-29,72,Completed
+EMP0072,Douglas Kelly,Strategy & Digital Department,Cybersecurity Awareness,2025-07-22,84,Completed
+EMP0072,Douglas Kelly,Strategy & Digital Department,Claims Management Essentials,2024-08-23,57,In Progress
+EMP0072,Douglas Kelly,Strategy & Digital Department,Financial Modeling,2024-12-20,61,Completed
+EMP0073,Patricia Beard,Corporate Claims,AML & Compliance Basics,2024-10-03,88,Completed
+EMP0073,Patricia Beard,Corporate Claims,Cybersecurity Awareness,2025-02-01,96,Completed
+EMP0074,Cory Edwards,"Talent, Training & Development",Reinsurance Principles,2025-04-27,57,In Progress
+EMP0074,Cory Edwards,"Talent, Training & Development",Cybersecurity Awareness,2025-05-31,62,Completed
+EMP0075,Lisa Johnson,Investor Relations,Digital Transformation,2025-03-20,50,In Progress
+EMP0076,Robin Guerrero,Commercial Underwriting,Risk Assessment Techniques,2025-07-18,62,Completed
+EMP0076,Robin Guerrero,Commercial Underwriting,Claims Management Essentials,2025-03-17,54,In Progress
+EMP0076,Robin Guerrero,Commercial Underwriting,Risk Assessment Techniques,2025-01-25,89,Completed
+EMP0077,Jordan Carlson,"Talent, Training & Development",Regulatory Compliance,2024-10-11,96,Completed
+EMP0077,Jordan Carlson,"Talent, Training & Development",Financial Modeling,2025-01-09,82,Completed
+EMP0077,Jordan Carlson,"Talent, Training & Development",Underwriting Fundamentals,2025-07-16,76,Completed
+EMP0078,Elizabeth Rivera,"Talent, Training & Development",Digital Transformation,2025-01-07,85,Completed
+EMP0078,Elizabeth Rivera,"Talent, Training & Development",Advanced Excel for Analysts,2024-11-15,76,Completed
+EMP0079,Krystal Ramirez,Risk Management,Risk Assessment Techniques,2024-11-06,89,Completed
+EMP0079,Krystal Ramirez,Risk Management,Reinsurance Principles,2025-01-10,75,Completed
+EMP0080,Roy Paul,Life & Medical,Underwriting Fundamentals,2025-01-02,63,Completed
+EMP0081,Brandon Williams,Accounting,Reinsurance Principles,2025-07-10,70,Completed
+EMP0081,Brandon Williams,Accounting,Data Analytics for Business,2025-03-23,78,Completed
+EMP0081,Brandon Williams,Accounting,Risk Assessment Techniques,2024-11-26,82,Completed
+EMP0082,Danielle Smith,Individual Department,Advanced Excel for Analysts,2025-07-12,55,In Progress
+EMP0082,Danielle Smith,Individual Department,Underwriting Fundamentals,2025-04-29,92,Completed
+EMP0082,Danielle Smith,Individual Department,Risk Assessment Techniques,2025-06-22,71,Completed
+EMP0083,Monique Navarro,Marketing,Risk Assessment Techniques,2025-01-14,64,Completed
+EMP0084,Adam Medina,Information Technology,AML & Compliance Basics,2024-09-01,65,Completed
+EMP0085,Keith Phelps,Individual Department,Regulatory Compliance,2024-09-15,79,Completed
+EMP0085,Keith Phelps,Individual Department,Cybersecurity Awareness,2025-06-27,86,Completed
+EMP0085,Keith Phelps,Individual Department,Customer Experience Excellence,2025-07-31,74,Completed
+EMP0086,Grant Rodriguez,Individual Department,Customer Experience Excellence,2024-10-23,91,Completed
+EMP0086,Grant Rodriguez,Individual Department,Digital Transformation,2024-08-11,98,Completed
+EMP0087,Charles Lopez,Human Resources,Customer Experience Excellence,2024-11-07,94,Completed
+EMP0087,Charles Lopez,Human Resources,Leadership & Communication,2025-04-03,53,In Progress
+EMP0088,Lindsay Greene,Life & Medical,Financial Modeling,2024-10-10,79,Completed
+EMP0089,Erin Price,Finance,Risk Assessment Techniques,2025-05-07,85,Completed
+EMP0089,Erin Price,Finance,Reinsurance Principles,2025-01-18,98,Completed
+EMP0090,Matthew Joseph,Distribution,Regulatory Compliance,2025-04-24,77,Completed
+EMP0090,Matthew Joseph,Distribution,Regulatory Compliance,2025-05-16,78,Completed
+EMP0090,Matthew Joseph,Distribution,Financial Modeling,2024-10-29,97,Completed
+EMP0091,Alexander Chavez,Individual Department,Underwriting Fundamentals,2024-12-13,90,Completed
+EMP0091,Alexander Chavez,Individual Department,Underwriting Fundamentals,2025-05-02,81,Completed
+EMP0092,Emily Kelly,Strategy & Digital Department,Underwriting Fundamentals,2025-03-22,54,In Progress
+EMP0093,Matthew Lopez,Marketing & Public Relations,Underwriting Fundamentals,2025-01-27,70,Completed
+EMP0094,David Martinez,Life & Medical,Advanced Excel for Analysts,2024-10-25,64,Completed
+EMP0095,Katie Reynolds,Director of Finance,Advanced Excel for Analysts,2025-08-05,63,Completed
+EMP0095,Katie Reynolds,Director of Finance,Insurance Fraud Detection,2025-03-09,76,Completed
+EMP0095,Katie Reynolds,Director of Finance,Claims Management Essentials,2025-05-13,79,Completed
+EMP0096,Michelle Rhodes,Accounting,Customer Experience Excellence,2025-03-12,74,Completed
+EMP0097,Brittany Sanchez,Corporate Claims,AML & Compliance Basics,2025-05-30,74,Completed
+EMP0097,Brittany Sanchez,Corporate Claims,Data Analytics for Business,2024-08-12,72,Completed
+EMP0097,Brittany Sanchez,Corporate Claims,Underwriting Fundamentals,2025-02-24,76,Completed
+EMP0098,Amy French,Life & Medical,Digital Transformation,2025-05-15,88,Completed
+EMP0098,Amy French,Life & Medical,Financial Modeling,2024-11-29,81,Completed
+EMP0098,Amy French,Life & Medical,Customer Experience Excellence,2024-12-26,77,Completed
+EMP0099,Nicholas Beck,Individual Department,Cybersecurity Awareness,2025-01-28,92,Completed
+EMP0100,Andrew Gray,Risk Management,Digital Transformation,2024-11-01,79,Completed
+EMP0100,Andrew Gray,Risk Management,Financial Modeling,2024-10-13,89,Completed
