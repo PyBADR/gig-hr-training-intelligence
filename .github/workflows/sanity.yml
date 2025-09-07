@@ -1,0 +1,17 @@
+name: sanity
+on: [push, pull_request]
+jobs:
+  sanity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python - <<'PY'
+import importlib
+for m in "streamlit,pandas,numpy,plotly,folium,streamlit_folium".split(","):
+    importlib.import_module(m)
+print("Sanity OK")
+PY
