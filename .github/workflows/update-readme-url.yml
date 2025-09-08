@@ -1,0 +1,43 @@
+name: Update README with Streamlit URL
+on:
+  workflow_dispatch:
+    inputs:
+      app_url:
+        description: "Override live app URL (optional)"
+        required: false
+        default: ""
+  push:
+    branches: [ "main" ]
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Resolve LIVE_URL
+        id: url
+        run: |
+          INPUT_URL="${{ github.event.inputs.app_url }}"
+          SECRET_URL="${{ secrets.STREAMLIT_APP_URL }}"
+          if [ -n "$INPUT_URL" ]; then LIVE_URL="$INPUT_URL";
+          elif [ -n "$SECRET_URL" ]; then LIVE_URL="$SECRET_URL";
+          else LIVE_URL="https://gig-hr-training-intelligence.streamlit.app"; fi
+          echo "LIVE_URL=$LIVE_URL" >> $GITHUB_OUTPUT
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Update README & app caption
+        run: |
+          python .github/scripts/update_readme_url.py --url "${{ steps.url.outputs.LIVE_URL }}" --readme "README.md" --app "app.py"
+      - name: Commit changes (if any)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md app.py
+            git commit -m "docs: sync README and app caption with live URL"
+            git push
+          else
+            echo "No changes to commit."
+          fi
