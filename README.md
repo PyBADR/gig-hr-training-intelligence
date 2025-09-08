@@ -1,5 +1,8 @@
 # GIG HR Training Intelligence System - Complete Setup Guide
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gig-hr-training-intelligence.streamlit.app)
+
+
 ## 🎯 **Project Overview**
 A comprehensive HR training management system for GIG with 22 departments, 100 employees, real-time analytics, and ML-powered insights.
 
@@ -348,3 +351,6 @@ Your GIG HR Training Intelligence System is now ready! The dashboard provides:
 
 **Launch Command**: `streamlit run app.py`
 **Access URL**: http://localhost:8501
+
+## 🚀 Live Demo
+**[https://gig-hr-training-intelligence.streamlit.app](https://gig-hr-training-intelligence.streamlit.app)**
