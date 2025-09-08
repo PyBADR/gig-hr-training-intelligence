@@ -7,10 +7,26 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime, date
 import json
+import os
+from streamlit_folium import st_folium
+import folium
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore'
+                       
+                       # --- Live URL caption (shows your public Streamlit URL in the header) ---
+# Reads from GitHub Action secret or Streamlit Cloud env var if set.
+# Safe to keep even if the variable is absent.
+LIVE_URL = os.getenv("STREAMLIT_APP_URL", "")
+try:
+    # Prefer Streamlit Secrets if provided
+    LIVE_URL = st.secrets.get("APP_URL", LIVE_URL) or LIVE_URL
+except Exception:
+    pass
+if LIVE_URL:
+    st.caption(f"🔗 **Live Dashboard:** [{LIVE_URL}]({LIVE_URL})")
+# ------------------------------------------------------------------------)
 
 # Page Configuration
 st.set_page_config(
