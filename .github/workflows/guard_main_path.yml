@@ -1,0 +1,19 @@
+name: Guard Main Path
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enforce single entrypoint & required data
+        run: |
+          set -e
+          test -f app.py
+          # project data (adjust if you rename)
+          test -f training_records.csv || echo "ℹ️ training_records.csv not found; ensure data exists in production."
+          test -f departments.json || echo "ℹ️ departments.json not found; optional overlay."
+          # Block alternate entry locations (src/, apps/, main.py, etc.)
+          if git ls-files | grep -Ei '^(src/|apps/|main\.py|app/main\.py)$' ; then
+            echo "❌ Alternate app paths detected. Main must remain app.py"; exit 1
+          fi
+          echo "✅ Guard checks passed."
