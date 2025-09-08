@@ -1,15 +1,20 @@
 # GIG HR Training Intelligence System - Essential Dependencies
 
 # Core Dependencies
-streamlit
-pandas
-numpy
+streamlit>=1.37
+pandas>=2.2
+numpy>=1.26
 
 # Visualization
-plotly
+plotly>=5.22
+folium>=0.16
+streamlit-folium>=0.21
 
 # Machine Learning
 scikit-learn
 
 # Data Generation
 faker
+
+# Environment Variables
+python-dotenv>=1.0
