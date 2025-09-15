@@ -13,7 +13,7 @@ import folium
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import warnings
-warnings.filterwarnings('ignore((
+warnings.filterwarnings('ignor)(
                        
                        # --- Live URL caption (shows your public Streamlit URL in the header) ---
 # Reads from GitHub Action secret or Streamlit Cloud env var if set.
