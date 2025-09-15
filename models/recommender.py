@@ -1,4 +1,14 @@
 import pandas as pd
+from pathlib import Path
+
+def load_catalog():
+    """Load training catalog from CSV file"""
+    catalog_path = Path("data/training_catalog.csv")
+    if catalog_path.exists():
+        return pd.read_csv(catalog_path)
+    else:
+        # Return empty DataFrame with required columns if file doesn't exist
+        return pd.DataFrame(columns=["Course","Provider","Department","Section","Level","Hours","Cost_KWD","Skills"])
 
 # Business weights
 W_COMPLETION = 0.50
